@@ -1,0 +1,12 @@
+# Pasta de dependências do Node.js
+node_modules/
+
+# Arquivos de log
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+
+# Arquivos de ambiente (se você usar)
+.env
+.idx
